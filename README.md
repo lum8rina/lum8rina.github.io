@@ -1,28 +1,47 @@
-# lum8rina.github.io
-# Hi there, I'm Rina — Cybersecurity Analyst  
-Welcome to my GitHub profile! I'm a cybersecurity analyst passionate about defending networks, detecting threats, and continuously learning in the evolving world of cybersecurity.
+# 💫 Hi, I'm Lum Rina Ngwan — Cybersecurity & GRC Analyst  
+> 🛡️ Protecting systems | 📜 Strengthening compliance | 🔍 Hunting threats
+
 ---
-## About Me
-- *Role:* Cybersecurity Analyst  
-- *Focus Areas:* Threat Detection, Incident Response, Network Security, SOC Operations  
-- *Tools I Work With:*  
-  - Wireshark | Wazuh | pfSense | Snort  
-  - Linux (Ubuntu/Kali) | Windows Server  
-  - Splunk | Nmap | Zeek | Suricata  
+
+## 📌 About Me  
+- 🔐 Cybersecurity Analyst with **1+ year** in threat detection, incident response & vulnerability assessments  
+- 📜 Governance, Risk & Compliance (GRC) practitioner with expertise in **ISO 27001, NIST, GDPR, and NIS2**  
+- 🌍 Seeking **global opportunities** (Luxembourg 🇱🇺 | Canada 🇨🇦 | EU 🇪🇺)  
+- 💬 Languages: **English 🇬🇧 | French 🇫🇷**  
+- 🎯 Passionate about **cyber awareness, risk management, and security audits**  
+
 ---
-## Current Projects
-- *Capstone Project:* Building a virtual SOC environment using Wireshark, pfSense, and Wazuh  
-- *Packet Analysis:* Detecting anomalies in DNS, HTTP, and SSH traffic  
-- *Firewall Hardening:* Implementing IDS/IPS with Snort and GeoIP filtering  
+
+## 🧰 Tech & Tools  
+**Security Analysis & Monitoring:**  
+🕵️ Wireshark | 🛡️ Wazuh | 🚦 Snort IDS/IPS | 📊 Splunk  
+
+**Governance & Compliance:**  
+📜 ISO 27001 | 🛠 NIST CSF | 📊 Risk Matrices | 📋 Policy Documentation  
+
+**Penetration Testing & Vulnerability Scanning:**  
+💣 Metasploit | 🔍 Nmap | 🐍 Kali Linux | 🧪 Nessus  
+
 ---
-## What I’m Learning
-- Advanced threat hunting techniques  
-- Log correlation and SIEM practices  
-- Scripting in Bash and Python for automation  
+
+## 📂 Featured Projects  
+- 🕵️ **Threat Detection with Wireshark & Wazuh** → *Correlating anomalous login patterns with network traffic*  
+- 🛡️ **pfSense Firewall Configuration** → *GeoIP blocking, IDS/IPS setup, SSH rule hardening*  
+- 📊 **GRC Risk Assessment for E-Commerce** → *Gap analysis & compliance roadmap for ISO 27001*  
+- 💉 **Penetration Testing on Zero Health Corp** → *Simulated attacks to test HIPAA compliance readiness*  
+
 ---
-## Let's Connect
-- *LinkedIn:* [Your LinkedIn URL here]  
-- *Email:* [Your email here]  
-- *GitHub Repos:* Check out my repositories to see my latest work and learning journey!
+
+## 📈 GitHub Stats  
+![Rina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)  
+
 ---
-> “Cybersecurity is not just about protecting data — it’s about protecting people.”
+
+## 📫 Let's Connect  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rina_lum@yahoo.com)  
+
+---
+💡 *“Cybersecurity is not just about technology — it’s about trust.”*
